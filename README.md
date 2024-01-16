@@ -13,8 +13,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-
+<!--
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AveMrk)](https://github.com/anuraghazra/github-readme-stats)
+-->
 <!--
 **AveMrk/AveMrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
