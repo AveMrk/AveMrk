@@ -36,8 +36,8 @@ o_schtolz@mail.ru
 Период: Август 2023 - настоящее время  
 ## Что я умею:
 ### React-Router
-Навигация по страницам сайта, осуществленная с помощью роутинга на стороне клиента
-[Ссылка на проект](https://github.com/AveMrk/router_menu/)
+Навигация по страницам сайта, осуществленная с помощью роутинга на стороне клиента    
+[Ссылка на проект](https://github.com/AveMrk/router_menu/)    
 :sparkles: *тут скоро что-то появится* :sparkles:  
     
 <img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" float="left"/>  
