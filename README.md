@@ -1,5 +1,19 @@
 # Hi, I'm Olga 👋
 ## Full Stack Developer from Moscow
+- :brain: I’m currently learning Node.js
+- :eye: Know about my experiences [cv](https://github.com/AveMrk/cv_ru/blob/main/README.md)
+- :dove: Reach me by stoltzoa@gmail.com
+- :dizzy: quick contact with me [telegram])(t.me/stoltzoa)
+
+### Languages & tools
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+
 <!--
 **AveMrk/AveMrk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
