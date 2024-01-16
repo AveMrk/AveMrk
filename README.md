@@ -1,7 +1,7 @@
 # Hi, I'm Olga 👋
 ## Full Stack Developer from Moscow
 - :brain: I’m currently learning Node.js
-- :eye: Know about my experiences [cv](https://github.com/AveMrk/cv_ru/blob/main/README.md)
+- :eye: Know about my experiences [cv](https://github.com/AveMrk/AveMrk/blob/main/cv/cv_ru/README.md)
 - :dove: Reach me by stoltzoa@gmail.com
 - :dizzy: quick contact with me [telegram](https://t.me/stoltzoa)
 
