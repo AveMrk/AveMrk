@@ -38,6 +38,9 @@ o_schtolz@mail.ru
 ### React-Router
 Навигация по страницам сайта, осуществленная с помощью роутинга на стороне клиента    
 [Ссылка на проект](https://github.com/AveMrk/router_menu/)    
+
+---
+
 :sparkles: *тут скоро что-то появится* :sparkles:  
     
 <img src="https://media.giphy.com/media/l3nWhI38IWDofyDrW/giphy.gif" float="left"/>  
