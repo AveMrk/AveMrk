@@ -37,7 +37,7 @@ o_schtolz@mail.ru
 ## Что я умею:
 ### React-Router
 Навигация по страницам сайта, осуществленная с помощью роутинга на стороне клиента    
-[Ссылка на проект](https://github.com/AveMrk/router_menu/)    
+[Ссылка на проект](https://github.com/AveMrk/router_menu/blob/main/README.md)    
 
 ---
 
