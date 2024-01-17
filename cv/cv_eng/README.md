@@ -9,7 +9,6 @@
 ## Personal info
 Moscow    
 stoltzoa@gmail.com  
-o_schtolz@mail.ru  
 [telegram](https://t.me/stoltzoa)
 ## :mortar_board: Education
 ### :books: Specialized secondary education
@@ -47,7 +46,6 @@ Client-side routing application
     
 ## Contacts
 stoltzoa@gmail.com  
-o_schtolz@mail.ru  
 [telegram](https://t.me/stoltzoa)
 
 <!--
