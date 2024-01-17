@@ -1,7 +1,7 @@
 # Hi, I'm Olga 👋
 ## Full Stack Developer from Moscow
 - :brain: I’m currently learning [Node.js](https://github.com/AveMrk/ndse-homeworks/blob/master/README.md)
-- :eye: Know about my experiences &nbsp;[CV](https://github.com/AveMrk/AveMrk/blob/main/cv/cv_eng/README.md) [Резюме]&nbsp;&nbsp;(https://github.com/AveMrk/AveMrk/blob/main/cv/cv_ru/README.md) [Lebenslauf](https://github.com/AveMrk/AveMrk/blob/main/cv/cv_de/README.md)&nbsp;&nbsp;
+- :eye: Know about my experiences [CV](https://github.com/AveMrk/AveMrk/blob/main/cv/cv_eng/README.md) [Резюме] (https://github.com/AveMrk/AveMrk/blob/main/cv/cv_ru/README.md) [Lebenslauf](https://github.com/AveMrk/AveMrk/blob/main/cv/cv_de/README.md)
 - :dove: Reach me by stoltzoa@gmail.com
 - :dizzy: quick contact with me [telegram](https://t.me/stoltzoa)
 
