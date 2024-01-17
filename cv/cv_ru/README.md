@@ -9,7 +9,6 @@
 ## Личная информация
 Город проживания: Москва  
 stoltzoa@gmail.com  
-o_schtolz@mail.ru  
 [telegram](https://t.me/stoltzoa)
 ## :mortar_board: Образование
 ### :books: Среднее профессиональное
