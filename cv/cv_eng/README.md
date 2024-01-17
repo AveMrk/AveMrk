@@ -14,6 +14,7 @@ stoltzoa@gmail.com
 ### :books: Specialized secondary education
 PGUPS     
 Specialty: Computer Networks    
+GPA: 5.0 (out of a 5 point system)  
 Year of graduation: 2023  
 <!--<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  -->
 [Diploma](https://github.com/AveMrk/AveMrk/blob/main/documents/README.md)
