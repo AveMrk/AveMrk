@@ -25,7 +25,7 @@ Year of graduation: 2024
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Diploma  
 <!-- [Диплом]() -->
 ### :desktop_computer: Higher education 
-ITMO Univercity 
+ITMO Univercity    
 Specialty:  Applied Informatics 
 Year of graduation: 2026  
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Diploma  
