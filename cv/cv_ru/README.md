@@ -14,6 +14,7 @@ stoltzoa@gmail.com
 ### :books: Среднее профессиональное
 ПГУПС имени императора Александра I  
 Специальность: Компьютерные сети  
+Средний академический балл: 5.0
 Год окончания: 2023  
 <!--<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  -->
 [Диплом](https://github.com/AveMrk/AveMrk/blob/main/documents/README.md)
