@@ -7,7 +7,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
 ## Personal info
-Moscow
+Moscow    
 stoltzoa@gmail.com  
 o_schtolz@mail.ru  
 [telegram](https://t.me/stoltzoa)
