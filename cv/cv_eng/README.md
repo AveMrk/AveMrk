@@ -12,8 +12,8 @@ stoltzoa@gmail.com
 [telegram](https://t.me/stoltzoa)
 ## :mortar_board: Education
 ### :books: Specialized secondary education
-PGUPS 
-Specialty: Computer Networks
+PGUPS     
+Specialty: Computer Networks    
 Year of graduation: 2023  
 <!--<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  -->
 [Diploma](https://github.com/AveMrk/AveMrk/blob/main/documents/README.md)
