@@ -14,7 +14,7 @@ stoltzoa@gmail.com
 ### :books: Fachbildung   
 PGUPS     
 Spezialität: Computernetzwerke   
-Notendurchschnitt: 5.0 | ausgezeichnet (out of a 5 point system)  
+Notendurchschnitt: 5.0 | ausgezeichnet (aus einem 5-Punkte-System)   
 Jahr des Abschlusses: 2023   
 <!--<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  -->
 [Diplom](https://github.com/AveMrk/AveMrk/blob/main/documents/README.md)
