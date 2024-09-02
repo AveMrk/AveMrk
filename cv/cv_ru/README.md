@@ -11,6 +11,19 @@
 stoltzoa@gmail.com  
 [telegram](https://t.me/stoltzoa)
 ## :mortar_board: Образование
+
+### :desktop_computer: Высшее
+МИУВ
+Специальность: Бизнес информатика  
+Год окончания: 2027  
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  
+
+### :computer: Дополнительное  
+Нетология  
+Специальность: Fullstack-разработчик на JavaScript  
+Год окончания: 2024   
+[Диплом](https://github.com/AveMrk/AveMrk/blob/main/documents/diploma_course.png)
+
 ### :books: Среднее профессиональное
 ПГУПС имени императора Александра I  
 Специальность: Компьютерные сети  
@@ -18,18 +31,7 @@ stoltzoa@gmail.com
 Год окончания: 2023  
 <!--<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  -->
 [Диплом](https://github.com/AveMrk/AveMrk/blob/main/documents/README.md)
-### :computer: Дополнительное  
-Нетология  
-Специальность: Fullstack-разработчик на JavaScript  
-Год окончания: 2024   
-[Диплом](https://github.com/AveMrk/AveMrk/blob/main/documents/diploma_course.png)
-<!-- [Диплом]() -->
-### :desktop_computer: Высшее
-МИУВ
-Специальность: Бизнес информатика  
-Год окончания: 2027  
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  
-<!-- [Диплом]() -->
+
  ## :briefcase: Опыт 
 Организация: ИП Брызгалова Я.С.  
 Специальность: Web-программист  
