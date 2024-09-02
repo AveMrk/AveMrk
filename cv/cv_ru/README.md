@@ -21,8 +21,8 @@ stoltzoa@gmail.com
 ### :computer: Дополнительное  
 Нетология  
 Специальность: Fullstack-разработчик на JavaScript  
-Год окончания: 2024  
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  
+Год окончания: 2024   
+[Диплом](https://github.com/AveMrk/AveMrk/blob/main/documents/Диплом проф переподготовки.png)
 <!-- [Диплом]() -->
 ### :desktop_computer: Высшее
 МИУВ
