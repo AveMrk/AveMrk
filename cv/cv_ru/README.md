@@ -25,9 +25,9 @@ stoltzoa@gmail.com
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  
 <!-- [Диплом]() -->
 ### :desktop_computer: Высшее
-ИТМО  
-Специальность: Прикладная информатика  
-Год окончания: 2026  
+МИУВ
+Специальность: Бизнес информатика  
+Год окончания: 2027  
 <img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  
 <!-- [Диплом]() -->
  ## :briefcase: Опыт 
