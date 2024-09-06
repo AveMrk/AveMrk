@@ -23,7 +23,7 @@ Year of graduation: 2023
 Netology  
 Specialty: Fullstack developer (JavaScript)  
 Year of graduation: 2024  
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Diploma  
+[Диплом](https://github.com/AveMrk/AveMrk/blob/main/documents/diploma_course.png)
 <!-- [Диплом]() -->
 
  ## :briefcase: Experience 
