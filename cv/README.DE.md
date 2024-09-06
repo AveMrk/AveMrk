@@ -23,7 +23,7 @@ Jahr des Abschlusses: 2023
 Netology  
 Spezialität: Full-Stack-Entwickler (JavaScript)  
 Jahr des Abschlusses: 2024   
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Diplom  
+[Diplom](https://github.com/AveMrk/AveMrk/blob/main/documents/diploma_course.png)
 <!-- [Диплом]() -->
 ### :desktop_computer: Hochschulbildung    
 ITMO Universität   
