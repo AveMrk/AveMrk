@@ -11,7 +11,7 @@
 Moscow    
 stoltzoa@gmail.com  
 [telegram](https://t.me/stoltzoa)
-## :mortar_board: 
+## :mortar_board: Education
 ### :mortar_board: Higher education       
 MUIV          
 Specialty: Business informatics           
