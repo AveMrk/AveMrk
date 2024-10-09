@@ -12,7 +12,7 @@ Moscow
 stoltzoa@gmail.com  
 [telegram](https://t.me/stoltzoa)
 ## :mortar_board: Education
-### :mortar_board: Higher education       
+### :desktop_computer: Higher education       
 MUIV          
 Specialty: Business informatics           
 Year of graduation: 2027         
