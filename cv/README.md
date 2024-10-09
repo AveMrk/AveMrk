@@ -12,16 +12,16 @@ Moscow
 stoltzoa@gmail.com  
 [telegram](https://t.me/stoltzoa)
 ## :mortar_board: 
-### :mortar_board: Higher education
-MUIV
-Specialty: Business informatics
-Year of graduation: 2027  
-<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом 
-### :books: Specialized secondary education
-PGUPS     
-Specialty: Computer Networks    
-GPA: 5.0 (out of a 5 point system)  
-Year of graduation: 2023  
+### :mortar_board: Higher education       
+MUIV          
+Specialty: Business informatics           
+Year of graduation: 2027         
+<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом           
+### :books: Specialized secondary education       
+PGUPS            
+Specialty: Computer Networks           
+GPA: 5.0 (out of a 5 point system)   
+Year of graduation: 2023         
 <!--<img src="https://media.giphy.com/media/3o7bu3XilJ5BOiSGic/giphy.gif" alt="loading" width="10" height="10">&nbsp;Диплом  -->
 [Diploma](https://github.com/AveMrk/AveMrk/blob/main/documents/README.md)
 ### :computer: Сourse
