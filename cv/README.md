@@ -31,7 +31,7 @@ Year of graduation: 2024
 [Diploma](https://github.com/AveMrk/AveMrk/blob/main/documents/diploma_course.png)
 <!-- [Диплом]() -->
 
- ## :briefcase: Experience      
+ ## :briefcase: Experience - 1 year 10 months
 Freelance    
 Web developer       
 Period of work: November 2022 - July 2023  
