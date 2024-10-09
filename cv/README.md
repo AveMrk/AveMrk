@@ -31,15 +31,20 @@ Year of graduation: 2024
 [Diploma](https://github.com/AveMrk/AveMrk/blob/main/documents/diploma_course.png)
 <!-- [Диплом]() -->
 
- ## :briefcase: Experience 
+ ## :briefcase: Experience      
+Freelance    
+Web developer       
+Period of work: November 2022 - July 2023  
+ 
 Organization: Individual entrepreneur Bryzgalova Y.S.  
-Specialty: Web developer  
-Period of work: August 2023 - current
+Specialty: Frontend developer  
+Period of work: July 2023 - August 2024
+<!--
 ## :pencil: Skills:
 ### React-Router
 Client-side routing application  
 [Link](https://github.com/AveMrk/router_menu/blob/main/README.md)    
-
+-->
 ---
 
 :sparkles: *something is coming soon* :sparkles:  
